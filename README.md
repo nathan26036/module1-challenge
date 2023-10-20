@@ -17,7 +17,7 @@ For this task i was asked to make the source code have semantic elements, have a
 ## Installation 
 The final code deployed can be found at https://nathan26036.github.io/module1-challenge/
 
-##Resources
+## Resources
 * https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 * https://www.semrush.com/blog/semantic-html5-guide/
 * https://supercooldesign.co.uk/blog/how-to-write-good-alt-text
