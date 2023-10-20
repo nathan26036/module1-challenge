@@ -1,6 +1,6 @@
 # Code Refractor
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+The goal of this project is to edit the code so it meets proper accessibiliy standards. The code needs to have semantic HTML elements, logical structure, alt attributes and a descriptive title. The purpose is to understand proper formatting and what good 
 
 - What was your motivation?
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
