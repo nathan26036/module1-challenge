@@ -1,5 +1,6 @@
 # Code Refractor
 
+### Description
 The goal of this project is to edit the code so it meets proper accessibiliy standards. The purpose is to understand proper formatting in html and css. This project helped understand why semantic elements are useful. I learned what a good code source should look like and how important readablity is. 
 
 ## The process
