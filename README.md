@@ -14,7 +14,7 @@ For this task i was asked to make the source code have semantic elements, have a
 * Added comments to CSS and HTML for readablity
 * Rearranged CSS to be grouped
 
-![The complete version of the code]()
+![The complete version of the code](https://github.com/nathan26036/module1-challenge/blob/main/assets/images/new-module1-changes.PNG)
 
 ## Installation 
 The final code deployed can be found at https://nathan26036.github.io/module1-challenge/
